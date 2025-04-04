@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Projects Related to Quant-Finance or Statistics In Finance
 - 📫 How to reach me ...Reach me on my mail abilfazalunwala786110@gmail.com
 - 😄 Pronouns: ...HE/HIM/NUMERIC-777
-- ⚡ Fun fact: ...I Like to Explore the convergence of Advanced Statistics and Financial Engineering 
+- ⚡ Fun fact: ...I Like to Explore the correlation and interplay of Advanced Statistics and Financial Engineering 
 
 <!---
 Kai-tech-bit/Kai-tech-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
